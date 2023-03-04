@@ -1,0 +1,27 @@
+/2
+
+one + two / three - 4 * 5
+22
+num1
+if(i + 4 == 4)
+intnum + (total * num / 45)
+(sum +4)/tot
+num/total/66  /intTot/ number/ num1 / num3
+num * (int2 + int1 - 2) / 99 * int3
+for = 2/2 * 4
+)6
+<
+num = sum
+intNum + 60
+switch + (9 / 3)
+num1 - (  8 * while)
+total * sum / do
+99 * if + 7
+digit = intNum + 14.992
+num + 14 - 34Fe
+R2D@ - (asdf)
+1999 - ( else / if)
+Area / 3.14159265 * r
+pi * r = Area
+(sum + 47 * a) / total - 8
+(sum + 47)/total
